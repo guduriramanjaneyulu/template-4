@@ -1,0 +1,104 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.row-1{
+    height: 720px;
+    width:800px;
+    /* border: 2px solid; */
+    float: left;
+}
+.col-1{
+    background-image: url("/image/jungle.jpg");
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.col-2{
+    background-image: url("/image/desert.avif");
+    width: 400px;
+    height: 190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.col-3{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.row-3{
+    float: left;
+}
+.col-4{
+    /* border: 2px solid; */
+    width: 90px;
+    height: 40px;
+}
+.col-5{
+    height: 59px;
+    width: 45px;
+    /* border: 2PX solid; */
+    background-color: rgb(177, 136, 59);
+    float: left;
+}
+.col-6{
+    height: 59px;
+    width: 48px;
+    /* border: 2PX solid; */
+    background-color:palevioletred;
+    margin-left: 45px;
+}
+.row-5{
+    /* border: 2px solid;    */
+    width: 107px;
+    height: 99px;
+    margin-left: 93px;
+    background-color: aqua;
+}
+.row-21{
+    float: left;
+}
+.col-7{
+    /* border: 2px solid; */
+    width: 199px;
+    height: 170px;
+    margin-left: 200px;
+    background-image: url("/image/beach.jpeg");
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.row-2{
+    float: left;
+}
+.col-8{
+    background-image: url("/image/ocean.jpg");
+    height: 360px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.col-9{
+    background-image: url("/image/mountains.jpg");
+    height: 720px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
